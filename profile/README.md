@@ -30,7 +30,7 @@ This provides a lot of opportunity around re-usable content (not redefining what
 
 ## Want Updates?
 
-There are two ways to get updates from DocsGarden:
+There are multiple ways to get updates from DocsGarden:
 
 - [Subscribe to the DocsGarden Newsletter](https://sendfox.com/lp/1kxqp9), which will include info such as:
   - General announcements
