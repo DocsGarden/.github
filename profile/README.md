@@ -1,4 +1,4 @@
-## Welcome to DocsGarden 🌱
+# Welcome to DocsGarden 🌱
 
 <!--
 ![image](https://user-images.githubusercontent.com/5951023/203222690-8028a968-0c05-421e-9760-cefd9464d3ce.png)
@@ -9,7 +9,7 @@ DocsGarden aims to make a variety of notes, documentation, ebooks, and other dig
 
 We prioritize converting content into [Dendron](https://www.dendron.so/)-compatible vaults. This is what is meant whenever "Dendronized" content is mentioned. In the future, we may support others like Obsidian and Logseq.
 
-### Seeding Digital Gardens and Connecting Second Brains 🧠
+## Seeding Digital Gardens and Connecting Second Brains 🧠
 
 ![image](https://user-images.githubusercontent.com/5951023/203223562-b69af591-5d34-47c8-a60c-a639eb8497d5.png)
 
@@ -28,13 +28,29 @@ DocsGarden is working to expand what is available in the land of public notes. I
 
 This provides a lot of opportunity around re-usable content (not redefining what is already in the official docs, but instead linking or note referencing), remixing content (building tutorials around note references containing official doc snippets), and more.
 
-### About Dendron
+## Want updates?
 
-Interested in creating your own knowledge base using markdown, git, and [Visual Studio Code (VS Code)](https://code.visualstudio.com/) (or [VSCodium](https://github.com/VSCodium/vscodium/))? Take a look at the [Dendron Getting Started Guide](https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1/).
+There are two ways to get updates from DocsGarden:
 
-A majority of the community interaction currently happens on the [Dendron Discord](https://link.dendron.so/discord). 🌱 The community talks about things related to Dendron, PKM, and making sense of the world around us!
+- [Subscribe to the DocsGarden Newsletter](https://sendfox.com/lp/1kxqp9), which will include info such as:
+  - General announcements
+  - New Dendronized vaults
+  - Vault standards/formatting updates
+  - Tips/Tricks for Multi-Vault configurations
+  - And more!
+- Press the `Follow` button at the top of the [DocsGarden GitHub Organiation](https://github.com/docsgarden) page to follow the DocsGarden GitHub Organization. Visit [GitHub Docs: Following Organizations](https://docs.github.com/en/get-started/exploring-projects-on-github/following-organizations) for more information.
 
-- [Subscribe to the newsletter](https://link.dendron.so/newsletter)
+> DocsGarden won't have a separate community from
+
+## About Dendron
+
+DocsGarden considers Dendron's vault format to be the preferred format when it comes to making knowledge easily consumable to all.
+
+Are you interested in creating your own knowledge base using markdown, git, and [Visual Studio Code (VS Code)](https://code.visualstudio.com/) (or [VSCodium](https://github.com/VSCodium/vscodium/))? Take a look at the [Dendron Getting Started Guide](https://wiki.dendron.so/notes/678c77d9-ef2c-4537-97b5-64556d6337f1/).
+
+A majority of the Dendron community interaction currently happens on the [Dendron Discord](https://link.dendron.so/discord). 🌱 The community talks about things related to Dendron, PKM, and making sense of the world around us!
+
+- [Subscribe to the Dendron newsletter](https://link.dendron.so/newsletter)
 - Follow [Dendron on Twitter](https://link.dendron.so/twitter)
 - Follow [Dendron on Mastodon](https://link.dendron.so/mastodon)
 - Subscribe to [Dendron on YouTube](https://link.dendron.so/youtube)
