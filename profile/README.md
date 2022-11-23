@@ -28,7 +28,7 @@ DocsGarden is working to expand what is available in the land of public notes. I
 
 This provides a lot of opportunity around re-usable content (not redefining what is already in the official docs, but instead linking or note referencing), remixing content (building tutorials around note references containing official doc snippets), and more.
 
-## Want updates?
+## Want Updates?
 
 There are two ways to get updates from DocsGarden:
 
