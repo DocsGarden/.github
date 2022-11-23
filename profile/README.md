@@ -39,8 +39,7 @@ There are two ways to get updates from DocsGarden:
   - Tips/Tricks for Multi-Vault configurations
   - And more!
 - Press the `Follow` button at the top of the [DocsGarden GitHub Organiation](https://github.com/docsgarden) page to follow the DocsGarden GitHub Organization. Visit [GitHub Docs: Following Organizations](https://docs.github.com/en/get-started/exploring-projects-on-github/following-organizations) for more information.
-
-> DocsGarden won't have a separate community from
+- In the [Dendron Discord](https://link.dendron.so/discord): Derek ([`@ScriptAutomate`](https://github.com/ScriptAutomate/)), the primary maintainer of this project, is active in the Dendron Discord community as `icanteven#0264` (display name is `ScriptAutomate` there, too!).
 
 ## About Dendron
 
